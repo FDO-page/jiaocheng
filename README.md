@@ -2,4 +2,7 @@ there are some norm for helping you to create a own webpage for article or url.y
 these page can identify these codes in your article. you can use then easily.
 
 to let the words to the url, you can use ' link:example](example.com) ' but to fix it with "["
+
 to show the picture, you can use [image:example.com]
+
+if you want to learn more about us, go to see [this page](https://fdo-page.github.io/startpage/)
